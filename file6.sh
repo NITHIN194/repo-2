@@ -1,0 +1,2 @@
+#!:wq\bin\bash
+
